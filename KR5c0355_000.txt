@@ -1,8 +1,8 @@
 # -*- mode: mandoku-view -*-
-#+TITLE: 終南山祖庭仙眞内傳
-#+DATE: 2015-08-29 00:56:42
+#+TITLE: 終南山祖庭仙真內傳
+#+DATE: 2015-08-29 00:56:45
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: WITNESS YP-C
 #+PROPERTY: JUAN 0
 
 
